@@ -1,4 +1,5 @@
 # Apnacollegedemo
 This is my first git repository.
 <br>
-author: arunbir singh
+author: arunbir (Khehra)
+
